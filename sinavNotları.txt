@@ -1,0 +1,7 @@
+Mehmet Akif  Arslan:60,70,80
+Zeynep Atar:90,90,90
+Mahmud Gürbulak:70,80,90
+Nur Nisa Ceylan:90,100,90
+mehmet arslan:12,24,36
+mehmet arslan:67,78,89
+
